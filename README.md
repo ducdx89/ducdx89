@@ -3,7 +3,7 @@
             src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"></h1>
 </div>
     <br/><br/>
-- 🔭 I’m currently working on home!
+- 🔭 I’m currently working on home!<br>
 - 📫 How to reach me: ducsadu.contact@gmail.com
 
 
